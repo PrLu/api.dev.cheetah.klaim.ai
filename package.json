@@ -1,0 +1,26 @@
+{
+  "name": "api.dev.cheetah.klaim.ai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrLu/api.dev.cheetah.klaim.ai.git"
+  },
+  "author": "Preetha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrLu/api.dev.cheetah.klaim.ai/issues"
+  },
+  "homepage": "https://github.com/PrLu/api.dev.cheetah.klaim.ai#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "pm2": "^5.1.2"
+  }
+}
